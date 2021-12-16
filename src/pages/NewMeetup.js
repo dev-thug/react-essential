@@ -1,6 +1,8 @@
 const NewMeetupPage = () => {
     return(
-        <div>New Meetup Page</div>
+        <section>
+            <h1>Add New Meetup</h1>
+        </section>
     )
 }
 
